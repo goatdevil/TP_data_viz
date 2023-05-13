@@ -1,0 +1,35 @@
+.input_area{
+    margin-top: 2em;
+    display: flex;
+    width: 50%;
+    margin-left: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#input_text{
+    width: 80%;
+}
+.Title{
+
+    font-style: italic;
+    color:white;
+    text-align: center;
+    text-decoration: wavy underline ;
+
+}
+
+.Title_background{
+    width: auto;
+    height: 3em;
+    background-color: black;
+}
+
+#List{
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px;
+    border: black;
+    list-style: square;
+
+}
+
